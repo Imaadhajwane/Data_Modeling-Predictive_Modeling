@@ -24,16 +24,17 @@ Assignment 6: Association Mining Rule
 
 
 
-In this assignment, we focus on exploring and visualizing the dataset to uncover patterns, trends, and insights. 
+#### In this assignment, we focus on exploring and visualizing the dataset to uncover patterns, trends, and insights. 
+
+#### Techniques such as summary statistics, correlation analysis, and various plots are employed.
 
 
-Techniques such as summary statistics, correlation analysis, and various plots are employed.
 
-
-
-License
+#### License
+-------------
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+#### Contact
+-------------
 For any questions or feedback, please contact LinkedIn: Imaad Hajwane / 9699301523
 
