@@ -22,7 +22,10 @@ Assignment 6: Association Mining Rule
 
 
 
+
+
 In this assignment, we focus on exploring and visualizing the dataset to uncover patterns, trends, and insights. 
+
 
 Techniques such as summary statistics, correlation analysis, and various plots are employed.
 
