@@ -20,7 +20,7 @@ Assignment 5: Decision Classification Model
 
 Assignment 6: Association Mining Rule
 
-
+*Along with this there is a fodler named "Dataset" it contains all the dataset used to perfrom the above assignments* 
 
 
 
