@@ -8,25 +8,23 @@ This repository contains the solutions for the Data Modeling & Predictive Modeli
 
 Table of Contents
 --------------------------
-Assignment 1: Data Exploration & Visualization
+    Assignment 1: Data Exploration & Visualization
 
-Assignment 2: Data Pre-processing & Data Cleaning Functions
+    Assignment 2: Data Pre-processing & Data Cleaning Functions
 
-Assignment 3: Linear Regression Model
+    Assignment 3: Linear Regression Model
 
-Assignment 4: ROC Curve
+    Assignment 4: ROC Curve
 
-Assignment 5: Decision Classification Model
+    Assignment 5: Decision Classification Model
 
-Assignment 6: Association Mining Rule
+    Assignment 6: Association Mining Rule
 
-*Along with this there is a fodler named "Dataset" it contains all the dataset used to perfrom the above assignments* 
+#### *Along with this there is a fodler named "Dataset" it contains all the dataset used to perfrom the above assignments* 
+---------------------------------
 
 
-
-#### In this assignment, we focus on exploring and visualizing the dataset to uncover patterns, trends, and insights. 
-
-#### Techniques such as summary statistics, correlation analysis, and various plots are employed.
+###### In this assignment, we focus on exploring and visualizing the dataset to uncover patterns, trends, and insights. Techniques such as summary statistics, correlation analysis, and various plots are employed.
 
 
 
